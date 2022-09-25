@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>we.ico</file>
+        <file>wm.ico</file>
+    </qresource>
+</RCC>
